@@ -6,7 +6,7 @@ CovidControl comes as part of the p2m project, which is part of our engineering 
 ## Running the project ## 
 To run the project, you need to :
 1. clone the repository
-2. download the models from this [Named Link](https://drive.google.com/file/d/1Xl4WMVmz665ii00ZLbCt_KhIOQZVX0Oj/view?usp=sharing "link")
+2. download the models from this [link](https://drive.google.com/file/d/1Xl4WMVmz665ii00ZLbCt_KhIOQZVX0Oj/view?usp=sharing "link")
 3. put the files previously downloaded in the models/ folder
 4. run the script with this command :
     `python detect.py --source filename`
@@ -18,7 +18,7 @@ other useful parameters are:
 
 ## Examples ##
 Here is an example of videos you can use :
-[Named Link](https://drive.google.com/file/d/1plERPVrBuUtFjyxqtLZQ2I9re3cm-AWy/view?usp=sharing "Video 1")
+[Video 1](https://drive.google.com/file/d/1plERPVrBuUtFjyxqtLZQ2I9re3cm-AWy/view?usp=sharing "Video 1")
 ( other videos and an example of the execution will be added )
 
 This link has a small documentation of how to run the script
